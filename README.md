@@ -1,7 +1,7 @@
 # Music-Sheet-Scanner-CNN
 Convolutional Neural Network for Sheet Scanning and Symbol Identification in Optical Music Recognition
 
-This project is the culmination of my final year at university, where I have developed a Convolutional Neural Network (CNN) for sheet scanning and symbol identification in Optical Music Recognition (OMR). The semantic pre-trained CNN model provided by <x> from GitHub has been utilized for this purpose.
+This project is the culmination of my final year at university, where I have developed a Convolutional Neural Network (CNN) for sheet scanning and symbol identification in Optical Music Recognition (OMR). The semantic pre-trained CNN model provided by [Jorge Calvo Zaragoza](https://github.com/OMR-Research/tf-end-to-end) from GitHub has been utilized for this purpose.
   
 The project workflow can be summarized as follows:
 
@@ -13,7 +13,7 @@ The project workflow can be summarized as follows:
   
   **Key Aspects**
   
-  * Pre-trained Convolutional Neural Network (CNN): This project extensively utilizes a pre-trained CNN model, providing reliable and accurate results. More information about this CNN model can be found in <here>.
+  * Pre-trained Convolutional Neural Network (CNN): This project extensively utilizes a pre-trained CNN model, providing reliable and accurate results. More information about this CNN model can be found in the paper [End-to-End Neural Optical Music Recognition of Monophonic Scores](https://www.mdpi.com/2076-3417/8/4/606).
   * Code Adaptation: Initially, the project was implemented and executable via the command line. To ensure smooth execution within Jupyter notebook, the code has been modified accordingly.
   * TensorFlow Compatibility: Compatibility with the pre-trained model has been ensured by incorporating tf.compat.v1.disable_v2_behavior(). This step disables TensorFlow version 2 behavior to overcome compatibility issues with certain libraries required by this model.
 
