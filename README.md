@@ -1,7 +1,7 @@
 # Music-Sheet-Scanner-CNN
 Convolutional Neural Network for Sheet Scanning and Symbol Identification in Optical Music Recognition
 
-This project is the culmination of my final year at university, where I have developed a Convolutional Neural Network (CNN) for sheet scanning and symbol identification in Optical Music Recognition (OMR). The semantic pre-trained CNN model provided by [tf-end-to-end repository](https://github.com/OMR-Research/tf-end-to-end) from GitHub has been utilized for this purpose.
+This project is the culmination of my final year at university, where I have developed a Convolutional Neural Network (CNN) for sheet scanning and symbol identification in Optical Music Recognition (OMR). For this project, I have made use of the semantic pre-trained CNN model available on GitHub from the [tf-end-to-end repository](https://github.com/OMR-Research/tf-end-to-end).
   
 The project workflow can be summarized as follows:
 
