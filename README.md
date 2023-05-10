@@ -27,7 +27,7 @@ For instance, when provided with a single-stave image containing hand-written mu
   
   **Input**
   
-  <input image>
+  ![Input](Stave.png)
   
   **Output**
   
